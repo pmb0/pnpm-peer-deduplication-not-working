@@ -1,0 +1,12 @@
+{
+  "name": "@org/lib-b",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@nestjs/core": "^10.2.5",
+    "@nestjs/microservices": "^10.2.5"
+  },
+  "peerDependencies": {
+    "@nestjs/core": "^10.2.5",
+    "@nestjs/microservices": "^10.2.5"
+  }
+}

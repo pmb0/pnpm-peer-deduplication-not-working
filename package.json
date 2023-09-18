@@ -1,0 +1,8 @@
+{
+  "name": "pnpm-peer-issue",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "pnpm -r --filter service test",
+    "reset": "rm -rf node_modules && rm -rf packages/*/node_modules && pnpm i"
+  }
+}

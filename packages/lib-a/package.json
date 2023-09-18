@@ -1,0 +1,12 @@
+{
+  "name": "@org/lib-a",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@nestjs/core": "^10.2.5",
+    "@nestjs/platform-express": "^10.2.5"
+  },
+  "peerDependencies": {
+    "@nestjs/core": "^10.2.5",
+    "@nestjs/platform-express": "^10.2.5"
+  }
+}
